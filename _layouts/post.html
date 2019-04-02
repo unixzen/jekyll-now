@@ -14,4 +14,11 @@ layout: default
   </div>
 
   {% include disqus.html %}
+  
+  <small>
+    {% for tag in page.tags %}
+    <a href="/tags/{{ tag }}/">{{ tag }}</a>
+    {% endfor %}
+  </small>
+
 </article>
