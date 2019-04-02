@@ -4,13 +4,13 @@ layout: default
 
 <article class="post">
   
+  <h1>{{ page.title }}</h1>
+
   <small>
     {% for tag in page.tags %}
     <a href="/tags/{{ tag }}/">{{ tag }}</a>
     {% endfor %}
   </small>
-  
-  <h1>{{ page.title }}</h1>
 
   <div class="entry">
     {{ content }}
