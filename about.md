@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: О сайте
 permalink: /about/
 ---
 
-Some information about you!
+Здесь будут разные заметки на IT тематику.
 
-### More Information
+### Связаться со мной
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[edemin2@gmail.com](mailto:edemin2@gmail.com)
